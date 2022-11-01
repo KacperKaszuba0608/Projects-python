@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KacperKaszuba0608,
 - 👀 I’m interested in Python programing and also data analysis.
 - 🌱 I’m currently learning Bioinformatics (MSc studies) at Wroclaw University of Environmental and Life Sciences.
-- 💞️ I’m looking to collaborate on programing or data analysis
+- 💞️ I’m looking to collaborate on programing or data analysis.
 - 📫 You can reach me at the [linkedin](www.linkedin.com/in/kacper-kaszuba-6998a2238), [stackoverflow](https://stackoverflow.com/users/20349608/kacper-kaszuba).
 
 <!---
